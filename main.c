@@ -2,6 +2,7 @@
  * A weekend project by stacksmashing.
  * Contact: twitter.com/ghidraninja
  *          code@stacksmashing.net
+ * Portuguese version: Julio Mauro - twitter.com/juliomauro
  */
 #include <gb/gb.h>
 #include <gb/drawing.h>
@@ -13,7 +14,7 @@
 #include <stdint.h>
 #include <rand.h>
 
-#include "wordlist.h"
+#include "wordlist_pt-br.h"
 #include "filter.h"
 #include "bloom.h"
 
